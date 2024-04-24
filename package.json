@@ -1,0 +1,21 @@
+{
+  "name": "mancomm_full_stack_assignment",
+  "version": "1.0.0",
+  "description": "Assigment for full stack engineering role at Mancomm",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Bishal Khadka",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "jsdom": "^24.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
